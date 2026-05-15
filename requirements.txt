@@ -1,0 +1,30 @@
+dill==0.3.5.1
+dnspython==2.2.1
+
+# Stable version (old wala dev version hata diya)
+evidently==0.2.8
+
+fastapi==0.78.0
+from-root==1.0.2
+httptools==0.5.0
+imblearn==0.0
+python-dotenv==0.21.0
+uvicorn==0.18.3
+
+xgboost==1.6.2
+pymongo==4.2.0
+
+boto3==1.24.84
+botocore==1.27.84
+
+jinja2==3.1.2
+
+watchfiles==0.17.0
+websockets==10.3
+
+# IMPORTANT FIXES
+PyYAML==6.0
+cython==0.29.36
+setuptools==68.0.0
+wheel==0.40.0
+-e .###ye automatically tumhare setup.py ko install karega jab tum requirements.txt ko trigger karoge...
